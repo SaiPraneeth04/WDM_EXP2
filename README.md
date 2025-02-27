@@ -53,5 +53,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+![web 2](https://github.com/user-attachments/assets/e6169399-8a06-4f88-b2f2-371886ce818e)
 
 ### RESULT: 
+Thus the program has been successfully executed.
